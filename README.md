@@ -1,4 +1,4 @@
-# TASK 4: Sentiment Analysis
+# Sentiment Analysis
 
 ## Features
 - Classifies text as Positive, Negative, or Neutral using VADER sentiment analysis.
