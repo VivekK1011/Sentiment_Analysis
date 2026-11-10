@@ -8,7 +8,7 @@
 - Shows sentiment distribution, emotion counts, source comparisons, and downloadable results.
 
 ## 1. Open the project in VS Code
-Extract the ZIP file. In VS Code, open the extracted `Task_4_Sentiment_Analysis` folder.
+Extract the ZIP file. In VS Code, open the extracted `Sentiment_Analysis` folder.
 
 ## 2. Open the terminal in the project folder
 Make sure the terminal path ends with `Task_4_Sentiment_Analysis`.
