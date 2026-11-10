@@ -11,7 +11,7 @@
 Extract the ZIP file. In VS Code, open the extracted `Sentiment_Analysis` folder.
 
 ## 2. Open the terminal in the project folder
-Make sure the terminal path ends with `Task_4_Sentiment_Analysis`.
+Make sure the terminal path ends with `Sentiment_Analysis`.
 
 ## 3. Install dependencies (Windows PowerShell)
 ```powershell
